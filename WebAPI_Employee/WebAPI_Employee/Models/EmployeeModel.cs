@@ -1,9 +1,11 @@
-﻿using WebAPI_Employee.Enums;
+﻿using System.ComponentModel.DataAnnotations;
+using WebAPI_Employee.Enums;
 
 namespace WebAPI_Employee.Models;
 
 public class EmployeeModel
 {
+    [Key]
     public int Id { get; set; }
     public string Name { get; set; }  = string.Empty;
     public string LastName { get; set; } = string.Empty;

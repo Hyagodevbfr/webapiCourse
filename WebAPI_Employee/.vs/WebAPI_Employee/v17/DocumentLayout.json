@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|c:\\workspace\\webapicourse\\webapi_employee\\webapi_employee\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|solutionrelative:webapi_employee\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|c:\\workspace\\webapicourse\\webapi_employee\\webapi_employee\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|solutionrelative:webapi_employee\\datacontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|c:\\workspace\\webapicourse\\webapi_employee\\webapi_employee\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|solutionrelative:webapi_employee\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|c:\\workspace\\webapicourse\\webapi_employee\\webapi_employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ServiceResponse.cs",
-              "DocumentMoniker": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Models\\ServiceResponse.cs",
-              "RelativeDocumentMoniker": "WebAPI_Employee\\Models\\ServiceResponse.cs",
-              "ToolTip": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Models\\ServiceResponse.cs",
-              "RelativeToolTip": "WebAPI_Employee\\Models\\ServiceResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\DataContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI_Employee\\DataContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\DataContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAPI_Employee\\DataContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T09:11:47.441Z",
+              "WhenOpened": "2024-02-27T09:46:45.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "WebAPI_Employee\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "WebAPI_Employee\\Models\\EmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:36:37.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI_Employee\\Program.cs",
@@ -43,7 +60,8 @@
               "RelativeToolTip": "WebAPI_Employee\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T09:09:37.567Z"
+              "WhenOpened": "2024-02-27T09:09:37.567Z",
+              "EditorCaption": ""
             }
           ]
         }
