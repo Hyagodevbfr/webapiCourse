@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|c:\\workspace\\webapicourse\\webapi_employee\\webapi_employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|solutionrelative:webapi_employee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|c:\\workspace\\webapicourse\\webapi_employee\\webapi_employee\\service\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|solutionrelative:webapi_employee\\service\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|c:\\workspace\\webapicourse\\webapi_employee\\webapi_employee\\service\\employeeservice\\iemployeeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052F3AF8-253C-49E4-B33E-0F924F46446B}|WebAPI_Employee\\WebAPI_Employee.csproj|solutionrelative:webapi_employee\\service\\employeeservice\\iemployeeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,40 @@
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "WebAPI_Employee\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Controllers\\EmployeeController.cs*",
-              "RelativeToolTip": "WebAPI_Employee\\Controllers\\EmployeeController.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "ToolTip": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebAPI_Employee\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wCgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T12:57:08.713Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Service\\EmployeeService\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "WebAPI_Employee\\Service\\EmployeeService\\EmployeeService.cs",
+              "ToolTip": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Service\\EmployeeService\\EmployeeService.cs",
+              "RelativeToolTip": "WebAPI_Employee\\Service\\EmployeeService\\EmployeeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T12:59:41.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeInterface.cs",
+              "DocumentMoniker": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Service\\EmployeeService\\IEmployeeInterface.cs",
+              "RelativeDocumentMoniker": "WebAPI_Employee\\Service\\EmployeeService\\IEmployeeInterface.cs",
+              "ToolTip": "C:\\workspace\\webapiCourse\\WebAPI_Employee\\WebAPI_Employee\\Service\\EmployeeService\\IEmployeeInterface.cs",
+              "RelativeToolTip": "WebAPI_Employee\\Service\\EmployeeService\\IEmployeeInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T13:00:00.869Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]
